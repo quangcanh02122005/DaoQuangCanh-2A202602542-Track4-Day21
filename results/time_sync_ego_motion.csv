@@ -1,0 +1,5 @@
+scene,use_ego_motion,hit,tot,mean_abs_dt_ms,pct_in_box
+scene-0103,False,7327,7640,35.42,95.9
+scene-0103,True,7632,7640,35.42,99.9
+scene-1094,False,9319,9444,35.83,98.68
+scene-1094,True,9443,9444,35.83,99.99

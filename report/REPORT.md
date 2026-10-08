@@ -4,7 +4,7 @@
 
 - **Họ tên:** Đào Quang Cảnh
 - **MSSV:** 2A202602542
-- **Lớp:** [ĐIỀN]
+- **Lớp:** L3A
 - **Link repo:** https://github.com/quangcanh02122005/DaoQuangCanh-2A202602542-Track4-Day21
 - **Topic:** A — LiDAR-camera projection QA
 - **Dataset:** data/kitti_mini (chính), data/nuscenes_mini_subset (so sánh), data/synthetic (debug)
